@@ -15,7 +15,7 @@ A stunning Svelte web frontend for [the Klark Server](https://github.com/krystej
 
 Klark Svelte Frontend is a web frontend (client) written in [the Svelte framework](https://svelte.dev/), created for [the Klark Server](https://github.com/krystejj/klark-server). It is designed with modernity in mind, which also applies for ease of use for you and makes UI look stunning. Because of usage of Svelte, it is also very fast and lightweight. And it's all open-source.
 
-### 🙏 Used Projects and Credits
+## 🙏 Used Projects and Credits
 This is a list of projects used in development of this frontend:
 - [Svelte](https://svelte.dev/) - a fast and enjoyable framework for building web apps,
 - [Skeleton](https://www.skeleton.dev/) - a beautiful and easy UI library for Svelte,
@@ -24,5 +24,5 @@ This is a list of projects used in development of this frontend:
 
 💗 Big thanks to the creators and all contributors of these projects.
 
-### 📜 License
+## 📜 License
 Everything in this repo is provided under the terms of the **GNU General Public License v3.0**, a free and open-source license. For more information, please see the [license file](LICENSE.md).
