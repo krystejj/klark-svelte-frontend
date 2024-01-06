@@ -7,7 +7,7 @@
     "email": "krystian.wiechec.p@skiff.com",
     "url": "https://github.com/krystejj"
   },
-  "description": "A stunning Svelte web frontend for Klark Server.",
+  "description": "A stunning Svelte web frontend for the Klark Server. Part of The Klark Project.",
   "private": true,
   "scripts": {
     "dev": "vite dev",
