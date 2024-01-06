@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="550"
+   height="240"
+   viewBox="0 0 550 240"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Klark Banner.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="620x300.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#0a0a0a"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="257.74042"
+     inkscape:cy="148.13887"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="393"
+       y="99"
+       width="186.6842"
+       height="87.343147"
+       id="rect1" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter93"
+       x="0"
+       y="0"
+       width="1.0333091"
+       height="1.0193816"
+       inkscape:auto-region="true">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="1.000000"
+         flood-color="rgb(5,196,107)"
+         id="feFlood92" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="0.000000"
+         id="feGaussianBlur92" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="5.800000"
+         dy="3.800000"
+         id="feOffset92" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite92" />
+      <feComposite
+         result="fbSourceGraphic"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite93" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix96" />
+      <feFlood
+         id="feFlood96"
+         result="flood"
+         in="fbSourceGraphic"
+         flood-opacity="0.800000"
+         flood-color="rgb(16,188,249)" />
+      <feGaussianBlur
+         id="feGaussianBlur96"
+         result="blur"
+         in="fbSourceGraphic"
+         stdDeviation="0.000000" />
+      <feOffset
+         id="feOffset96"
+         result="offset"
+         in="blur"
+         dx="5.800000"
+         dy="3.800000" />
+      <feComposite
+         id="feComposite96"
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset" />
+      <feComposite
+         id="feComposite97"
+         result="comp2"
+         operator="over"
+         in="fbSourceGraphic"
+         in2="comp1" />
+    </filter>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3,0,1 @ F,0,0,1,0,4,0,1 @ F,0,0,1,0,3,0,1 @ F,0,0,1,0,4,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2"
+       transform="matrix(0.60023175,0,0,0.60041426,-53.981294,-37.98992)"
+       style="fill:#f5f5f5;fill-opacity:1;filter:url(#filter93)"
+       inkscape:label="Logo">
+      <path
+         id="polygon2"
+         style="fill:#f5f5f5;fill-opacity:1"
+         d="M 91.361436,326.33242 303.81447,63.967335 a 1.8735023,1.8735023 13.901963 0 1 3.29385,0.815266 l 12.98862,65.625669 a 6.4051163,6.4051163 103.90196 0 1 -1.30547,5.27437 L 106.33844,398.04772 a 1.8735024,1.8735024 13.901961 0 1 -3.29385,-0.81526 L 90.055968,331.60679 a 6.4051159,6.4051159 103.90196 0 1 1.305468,-5.27437 z"
+         inkscape:path-effect="#path-effect1"
+         inkscape:original-d="M 89.473507,328.66388 306.33171,60.858716 320.6794,133.35118 103.8212,401.15634 Z"
+         transform="matrix(1.0023996,0,0,1.0022387,-0.21580337,-0.14164851)"
+         inkscape:label="polygon1" />
+      <path
+         id="polygon3"
+         style="fill:#f5f5f5;fill-opacity:1;stroke-width:1.00092"
+         class="st2"
+         d="m 307.02603,205.55611 -43.45037,53.48702 a 1.4099272,1.4046784 0 0 0 1.11503,2.28815 l 126.42318,-1.73868 a 4.2819267,4.2659862 0 0 0 3.26764,-1.58078 l 43.49042,-53.49022 a 1.4089243,1.4036793 0 0 0 -1.11504,-2.28815 l -126.46308,1.74287 a 4.2789184,4.2629889 0 0 0 -3.26778,1.57979 z"
+         inkscape:label="polygon2" />
+      <path
+         id="polygon4"
+         style="fill:#f5f5f5;fill-opacity:1;stroke-width:1.00063"
+         class="st2"
+         d="m 251.60236,273.034 -43.30223,53.78331 a 4.2695928,4.2918705 0 0 0 -0.87028,3.52792 l 24.25626,123.91324 a 1.4022389,1.4095554 0 0 0 2.46548,0.61628 l 43.33452,-53.67423 a 4.2616085,4.2838446 0 0 0 0.87153,-3.52606 L 254.06449,273.64768 a 1.4002428,1.407549 0 0 0 -2.46213,-0.61368 z"
+         inkscape:label="polygon3" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:69.3333px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#f5f5f5;fill-opacity:1"
+       transform="matrix(1.5143376,0,0,1.5143376,-309.3455,-88.716073)"
+       inkscape:label="Klark"><tspan
+         x="393"
+         y="163.1333"
+         id="tspan4"><tspan
+           style="font-weight:bold;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'"
+           id="tspan1">Klark</tspan></tspan></text>
+  </g>
+</svg>
