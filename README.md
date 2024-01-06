@@ -1,7 +1,7 @@
-<div align="center"><img src="./assets/Klark Banner.svg" alt="Klark Banner" height="120px" /></div>
+<div style="text-align: center;"><img src="./assets/Klark Banner.png" alt="Klark Banner" /></div>
 
 # Klark Svelte Frontend
-A stunning Svelte web frontend for [Klark Server](https://github.com/krystejj/klark-server). This repo is a part of **Klark Project**.
+A stunning Svelte web frontend for [Klark Server](https://github.com/krystejj/klark-server). Part of **Klark Project**.
 
 ![License](https://img.shields.io/github/license/krystejj/klark-svelte-frontend?label=License)
 ![Issues](https://img.shields.io/github/issues/krystejj/klark-svelte-frontend?label=Issues)
