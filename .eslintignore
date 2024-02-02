@@ -1,12 +1,24 @@
-.DS_Store
-node_modules
-/build
-/.svelte-kit
-/package
-.env
-.env.*
-!.env.example
+# VSCode
+/.vscode/
 
-pnpm-lock.yaml
-package-lock.json
-yarn.lock
+# Jetbrains IDEs
+/.idea/
+
+# npm
+/node_modules/
+
+# Yarn
+/yarn.lock
+
+# Svelte
+/.svelte-kit/
+/build/
+/package/
+
+# Vite
+/vite.config.js.timestamp-*
+/vite.config.ts.timestamp-*
+
+# OS Files
+.DS_Store
+Thumbs.db

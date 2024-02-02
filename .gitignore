@@ -1,11 +1,21 @@
+# VSCode
+/.vscode/
+
+# Jetbrains IDEs
+/.idea/
+
+# npm
+/node_modules/
+
+# Svelte
+/.svelte-kit/
+/build/
+/package/
+
+# Vite
+/vite.config.js.timestamp-*
+/vite.config.ts.timestamp-*
+
+# OS Files
 .DS_Store
-node_modules
-/build
-/.svelte-kit
-/package
-.env
-.env.*
-!.env.example
-vite.config.js.timestamp-*
-vite.config.ts.timestamp-*
-/.idea
+Thumbs.db
